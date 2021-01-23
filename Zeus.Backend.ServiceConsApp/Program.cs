@@ -14,7 +14,7 @@ namespace Zeus.Backend.ServiceConsApp
 
             Console.WriteLine("Escuchando...");
 
-            IPAddress ip = Dns.GetHostEntry("192.168.0.2").AddressList[0];
+            IPAddress ip = Dns.GetHostEntry("192.168.0.11").AddressList[0];
             TcpListener listener = new TcpListener(ip, 5055);
             listener.Start();
 
