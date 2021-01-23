@@ -13,4 +13,23 @@ E:\source\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.B
 E:\source\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\ref\Zeus.Backend.ServiceConsApp.dll
 E:\source\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.pdb
 E:\source\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.genruntimeconfig.cache
+<<<<<<< HEAD
 E:\source\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.csprojAssemblyReference.cache
+=======
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\bin\Debug\net5.0\Zeus.Backend.ServiceConsApp.exe
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\bin\Debug\net5.0\Zeus.Backend.ServiceConsApp.deps.json
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\bin\Debug\net5.0\Zeus.Backend.ServiceConsApp.runtimeconfig.json
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\bin\Debug\net5.0\Zeus.Backend.ServiceConsApp.runtimeconfig.dev.json
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\bin\Debug\net5.0\Zeus.Backend.ServiceConsApp.dll
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\bin\Debug\net5.0\ref\Zeus.Backend.ServiceConsApp.dll
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\bin\Debug\net5.0\Zeus.Backend.ServiceConsApp.pdb
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.csprojAssemblyReference.cache
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.AssemblyInfoInputs.cache
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.AssemblyInfo.cs
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.csproj.CoreCompileInputs.cache
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.dll
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\ref\Zeus.Backend.ServiceConsApp.dll
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.pdb
+C:\repos\Zeus.BackEnd\Zeus.Backend.ServiceConsApp\obj\Debug\net5.0\Zeus.Backend.ServiceConsApp.genruntimeconfig.cache
+>>>>>>> de6328131d829ff978f95963339adfeeecbc2e06
