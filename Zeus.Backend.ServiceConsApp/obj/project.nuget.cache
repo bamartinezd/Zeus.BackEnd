@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "En7cnAXvDcLAFnFly7TVodVKnIrKc6VOmjB4S3nwtmYgYlp/GFeuQxg7hpf9mP+B1B+RdGy5k+OQFfzHm27U6w==",
+  "dgSpecHash": "Sii9Wm3p4emTxg3G5qVc1tfAKibUF2NvUAAHVFV1BbHhuOQNEX7c/MtMk6elQdVzgp+ppYMV7CNRvDJNr9jp1A==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Zeus.BackEnd\\Zeus.Backend.ServiceConsApp\\Zeus.Backend.ServiceConsApp.csproj",
+  "projectFilePath": "E:\\source\\repos\\Zeus.BackEnd\\Zeus.Backend.ServiceConsApp\\Zeus.Backend.ServiceConsApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
