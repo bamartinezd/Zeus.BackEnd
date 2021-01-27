@@ -16,7 +16,8 @@ namespace Zeus.Backend.ServiceConsApp
             try
             {
                 int port = 5055;
-                IPHostEntry iPHost = Dns.GetHostEntry(Dns.GetHostName());
+                IPHostEntry iPHost = Dns.GetHostEntry("192.168.0.2");
+                //IPHostEntry iPHost = Dns.GetHostEntry(Dns.GetHostName());
                 IPAddress iPAddress = iPHost.AddressList[0];
 
                 server = new TcpListener(iPAddress, port);
@@ -27,7 +28,7 @@ namespace Zeus.Backend.ServiceConsApp
 
                 while (true)
                 {
-                    Console.Write($"Waiting for a connection: {server.LocalEndpoint}");
+                    Console.WriteLine($"Waiting for a connection: {server.LocalEndpoint}");
 
                     // Perform a blocking call to accept requests.
                     // You could also use server.AcceptSocket() here.
@@ -49,7 +50,7 @@ namespace Zeus.Backend.ServiceConsApp
                         Console.WriteLine("Received: {0}", data);
 
                         // Process the data sent by the client.
-                        data = data.ToUpper();
+                        data = "4c4f4144".ToUpper();
 
                         byte[] msg = System.Text.Encoding.ASCII.GetBytes(data);
 

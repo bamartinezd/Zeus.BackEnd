@@ -9,11 +9,10 @@ namespace Zeus.Backend.ServiceConsApp
 {
     class Program
     {
-        static int Main(string[] args)
+        static void Main(string[] args)
         {
             //AsynchronousSocketListener.StartListening();
             new MyTcpListener();
-            return 0;
         }
     }
 }
